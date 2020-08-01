@@ -1,0 +1,49 @@
+﻿@model IEnumerable<DeberPrograPao1.Models.Tablet>
+
+@{
+    ViewData["Title"] = "Tablets";
+}
+
+    <h1>Tablets</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Modelo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var tablet in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => tablet.Marca)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => tablet.Modelo)
+            </td>
+            <td>
+                <form action="tablets/comprar" method="post">
+                    <div class="row">
+                        <input name="id" type="hidden" value="@tablet.Id" />
+                        <input type="submit" value="Comprar" class="btn btn-success" />
+                    </div>
+                </form>
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@tablet.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@tablet.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@tablet.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
