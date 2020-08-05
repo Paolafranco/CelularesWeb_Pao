@@ -1,0 +1,9 @@
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\DeberProgra.deps.json
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\DeberProgra.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\DeberProgra.pdb
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\DeberProgra.csprojAssemblyReference.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\DeberProgra.AssemblyInfoInputs.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\DeberProgra.AssemblyInfo.cs
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\DeberProgra.csproj.CoreCompileInputs.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\DeberProgra.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\DeberProgra.pdb

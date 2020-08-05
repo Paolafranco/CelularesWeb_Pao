@@ -1,0 +1,16 @@
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\Educacion.AccesoDatos.deps.json
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\Educacion.AccesoDatos.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.csprojAssemblyReference.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.AssemblyInfo.cs
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\Educacion.Negocio.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\Educacion.AccesoDatos.runtimeconfig.json
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\Educacion.AccesoDatos.runtimeconfig.dev.json
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\Educacion.AccesoDatos.pdb
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\Educacion.Negocio.pdb
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.csproj.CopyComplete
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.pdb
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.genruntimeconfig.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\appconfig.json

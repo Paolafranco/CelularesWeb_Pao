@@ -1,0 +1,12 @@
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\Educacion.Negocio.deps.json
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\Educacion.Negocio.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\Educacion.Negocio.pdb
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.AssemblyInfoInputs.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.AssemblyInfo.cs
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.pdb
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\Educacion.Negocio.runtimeconfig.json
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\Educacion.Negocio.runtimeconfig.dev.json
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.genruntimeconfig.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.csprojAssemblyReference.cache
