@@ -14,3 +14,5 @@ C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\ne
 C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.genruntimeconfig.cache
 C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\obj\Debug\netcoreapp3.1\Educacion.AccesoDatos.csproj.CoreCompileInputs.cache
 C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\appconfig.json
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\Educacion.Interface.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.AccesoDatos\bin\Debug\netcoreapp3.1\Educacion.Interface.pdb

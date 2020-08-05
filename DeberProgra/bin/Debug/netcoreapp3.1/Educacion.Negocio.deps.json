@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Educacion.Negocio/1.0.0": {
         "dependencies": {
+          "Educacion.Interface": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "3.1.6"
         },
         "runtime": {
@@ -218,6 +219,11 @@
             "fileVersion": "4.700.20.21406"
           }
         }
+      },
+      "Educacion.Interface/1.0.0": {
+        "runtime": {
+          "Educacion.Interface.dll": {}
+        }
       }
     }
   },
@@ -380,6 +386,11 @@
       "sha512": "sha512-j81Lovt90PDAq8kLpaJfJKV/rWdWuEk6jfV+MBkee33vzYLEUsy4gXK8laa9V2nZlLM9VM9yA/OOQxxPEJKAMw==",
       "path": "system.diagnostics.diagnosticsource/4.7.1",
       "hashPath": "system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    },
+    "Educacion.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Educacion.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Educacion.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Educacion.Interface.dll": {}
+        }
+      },
+      "Educacion.Negocio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Educacion.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Educacion.Negocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Educacion.Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Educacion.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Educacion.Interface/Educacion.Interface.csproj",
+      "msbuildProject": "../Educacion.Interface/Educacion.Interface.csproj"
+    },
+    "Educacion.Negocio/1.0.0": {
+      "type": "project",
+      "path": "../DeberProgra/Educacion.Negocio.csproj",
+      "msbuildProject": "../DeberProgra/Educacion.Negocio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Educacion.Interface >= 1.0.0",
+      "Educacion.Negocio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Pao\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.Inplementacion\\Educacion.Inplementacion.csproj",
+      "projectName": "Educacion.Inplementacion",
+      "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.Inplementacion\\Educacion.Inplementacion.csproj",
+      "packagesPath": "C:\\Users\\Pao\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.Inplementacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Pao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\DeberProgra\\Educacion.Negocio.csproj": {
+              "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\DeberProgra\\Educacion.Negocio.csproj"
+            },
+            "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.Interface\\Educacion.Interface.csproj": {
+              "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.Interface\\Educacion.Interface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

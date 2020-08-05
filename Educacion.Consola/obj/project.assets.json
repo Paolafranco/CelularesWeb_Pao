@@ -1329,9 +1329,36 @@
           "bin/placeholder/Educacion.AccesoDatos.dll": {}
         }
       },
+      "Educacion.Inplementacion/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Educacion.Interface": "1.0.0",
+          "Educacion.Negocio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Educacion.Inplementacion.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Educacion.Inplementacion.dll": {}
+        }
+      },
+      "Educacion.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Educacion.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Educacion.Interface.dll": {}
+        }
+      },
       "Educacion.Negocio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Educacion.Interface": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Educacion.Negocio.dll": {}
         },
@@ -5092,6 +5119,16 @@
       "path": "../Educacion.AccesoDatos/Educacion.AccesoDatos.csproj",
       "msbuildProject": "../Educacion.AccesoDatos/Educacion.AccesoDatos.csproj"
     },
+    "Educacion.Inplementacion/1.0.0": {
+      "type": "project",
+      "path": "../Educacion.Inplementacion/Educacion.Inplementacion.csproj",
+      "msbuildProject": "../Educacion.Inplementacion/Educacion.Inplementacion.csproj"
+    },
+    "Educacion.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Educacion.Interface/Educacion.Interface.csproj",
+      "msbuildProject": "../Educacion.Interface/Educacion.Interface.csproj"
+    },
     "Educacion.Negocio/1.0.0": {
       "type": "project",
       "path": "../DeberProgra/Educacion.Negocio.csproj",
@@ -5101,6 +5138,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Educacion.AccesoDatos >= 1.0.0",
+      "Educacion.Inplementacion >= 1.0.0",
       "Educacion.Negocio >= 1.0.0"
     ]
   },
@@ -5135,6 +5173,9 @@
             },
             "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.AccesoDatos\\Educacion.AccesoDatos.csproj": {
               "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.AccesoDatos\\Educacion.AccesoDatos.csproj"
+            },
+            "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.Inplementacion\\Educacion.Inplementacion.csproj": {
+              "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.Inplementacion\\Educacion.Inplementacion.csproj"
             }
           }
         }

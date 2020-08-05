@@ -9,6 +9,7 @@
       "Educacion.Consola/1.0.0": {
         "dependencies": {
           "Educacion.AccesoDatos": "1.0.0",
+          "Educacion.Inplementacion": "1.0.0",
           "Educacion.Negocio": "1.0.0"
         },
         "runtime": {
@@ -915,7 +916,24 @@
           "Educacion.AccesoDatos.dll": {}
         }
       },
+      "Educacion.Inplementacion/1.0.0": {
+        "dependencies": {
+          "Educacion.Interface": "1.0.0",
+          "Educacion.Negocio": "1.0.0"
+        },
+        "runtime": {
+          "Educacion.Inplementacion.dll": {}
+        }
+      },
+      "Educacion.Interface/1.0.0": {
+        "runtime": {
+          "Educacion.Interface.dll": {}
+        }
+      },
       "Educacion.Negocio/1.0.0": {
+        "dependencies": {
+          "Educacion.Interface": "1.0.0"
+        },
         "runtime": {
           "Educacion.Negocio.dll": {}
         }
@@ -1566,6 +1584,16 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Educacion.AccesoDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Educacion.Inplementacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Educacion.Interface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

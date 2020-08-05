@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DeberProgra\Educacion.Negocio.csproj" />
+    <ProjectReference Include="..\Educacion.Interface\Educacion.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

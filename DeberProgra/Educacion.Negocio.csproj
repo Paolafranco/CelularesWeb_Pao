@@ -11,4 +11,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Educacion.Interface\Educacion.Interface.csproj" />
+  </ItemGroup>
+
 </Project>

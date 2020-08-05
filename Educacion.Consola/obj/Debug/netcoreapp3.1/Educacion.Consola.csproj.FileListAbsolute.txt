@@ -55,3 +55,7 @@ C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Consola\obj\Debug\netcor
 C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Consola\obj\Debug\netcoreapp3.1\Educacion.Consola.dll
 C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Consola\obj\Debug\netcoreapp3.1\Educacion.Consola.pdb
 C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Consola\obj\Debug\netcoreapp3.1\Educacion.Consola.genruntimeconfig.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Consola\bin\Debug\netcoreapp3.1\Educacion.Inplementacion.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Consola\bin\Debug\netcoreapp3.1\Educacion.Interface.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Consola\bin\Debug\netcoreapp3.1\Educacion.Inplementacion.pdb
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Consola\bin\Debug\netcoreapp3.1\Educacion.Interface.pdb

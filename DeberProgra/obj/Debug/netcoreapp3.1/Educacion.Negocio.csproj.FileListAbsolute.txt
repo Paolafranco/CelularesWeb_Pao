@@ -10,3 +10,6 @@ C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.
 C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.csproj.CoreCompileInputs.cache
 C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.genruntimeconfig.cache
 C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.csprojAssemblyReference.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\Educacion.Interface.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\bin\Debug\netcoreapp3.1\Educacion.Interface.pdb
+C:\Users\Pao\source\repos\Estudiantes.Negocio\DeberProgra\obj\Debug\netcoreapp3.1\Educacion.Negocio.csproj.CopyComplete

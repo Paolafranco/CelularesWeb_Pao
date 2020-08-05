@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Educacion.Inplementacion/1.0.0": {
+        "dependencies": {
+          "Educacion.Interface": "1.0.0",
+          "Educacion.Negocio": "1.0.0"
+        },
+        "runtime": {
+          "Educacion.Inplementacion.dll": {}
+        }
+      },
+      "Educacion.Interface/1.0.0": {
+        "runtime": {
+          "Educacion.Interface.dll": {}
+        }
+      },
+      "Educacion.Negocio/1.0.0": {
+        "dependencies": {
+          "Educacion.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Educacion.Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Educacion.Inplementacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Educacion.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Educacion.Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

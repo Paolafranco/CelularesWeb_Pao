@@ -1,0 +1,9 @@
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Interface\bin\Debug\netcoreapp3.1\Educacion.Interface.deps.json
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Interface\bin\Debug\netcoreapp3.1\Educacion.Interface.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Interface\bin\Debug\netcoreapp3.1\Educacion.Interface.pdb
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Interface\obj\Debug\netcoreapp3.1\Educacion.Interface.csprojAssemblyReference.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Interface\obj\Debug\netcoreapp3.1\Educacion.Interface.AssemblyInfoInputs.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Interface\obj\Debug\netcoreapp3.1\Educacion.Interface.AssemblyInfo.cs
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Interface\obj\Debug\netcoreapp3.1\Educacion.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Interface\obj\Debug\netcoreapp3.1\Educacion.Interface.dll
+C:\Users\Pao\source\repos\Estudiantes.Negocio\Educacion.Interface\obj\Debug\netcoreapp3.1\Educacion.Interface.pdb

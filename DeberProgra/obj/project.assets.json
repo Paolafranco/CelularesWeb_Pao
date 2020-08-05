@@ -252,6 +252,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
+      },
+      "Educacion.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Educacion.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Educacion.Interface.dll": {}
+        }
       }
     }
   },
@@ -765,10 +775,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Educacion.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Educacion.Interface/Educacion.Interface.csproj",
+      "msbuildProject": "../Educacion.Interface/Educacion.Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Educacion.Interface >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.6"
     ]
   },
@@ -797,7 +813,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.Interface\\Educacion.Interface.csproj": {
+              "projectPath": "C:\\Users\\Pao\\source\\repos\\Estudiantes.Negocio\\Educacion.Interface\\Educacion.Interface.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
